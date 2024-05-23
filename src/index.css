@@ -1,0 +1,7 @@
+#root {
+  background-color: var(--color-off-black);
+  height: 100vh;
+  display: grid;
+  justify-content: center; /* Centra horizontalmente */
+  align-items: center; /* Centra verticalmente */
+}

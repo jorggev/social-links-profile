@@ -1,0 +1,23 @@
+.user-details-container {
+  height: max-content;
+  display: grid;
+  justify-content: center;
+  text-align: center;
+}
+
+.name {
+  font-size: 25px;
+  color: var(--color-white);
+}
+
+.location{
+    color: var(--color-green);
+    margin-top: 10px;
+}
+
+.description {
+    margin-top: 30px;
+    color: var(--color-white);
+    font-weight: 500;
+    font-size: 14px;
+}
